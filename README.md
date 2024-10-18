@@ -5,6 +5,7 @@ A commnity voting and social polling app for authentic users that allows governm
 
 Authentication incorporate World ID or relevant verification documents i.e. National IDs, PassPorts etc.
 
+![Logo](https://i.ibb.co/Hx4YrWT/looka-com-editor-200422247.png)
 
 ## Acknowledgements
 
